@@ -1,5 +1,6 @@
-#include <stdio.h>
-int main() {
+#include<stdio.h>
+int main()
+{
    int rows, coef = 1, space, i, j;
    scanf("%d", &rows);
    for (i = 0; i < rows; i++)
